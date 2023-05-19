@@ -39,6 +39,6 @@ function CreateButton(li){
     down.classList.add('down') //<button class = "down">Down</button>
     li.appendChild(down)
 
-
 }
 
+// Django -----  API ------- FE ------ Page
