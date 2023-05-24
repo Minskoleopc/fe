@@ -149,7 +149,6 @@ function getInfo(){
 
 
 async function getInformation(){
-
    let a =  await  createUser()
    console.log(a)
 
